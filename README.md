@@ -16,6 +16,6 @@
   2) "There once lived a poor tailor, who had a son called Aladdin, a careless, idle boy who would do 
       nothing but play all day long in the streets with little idle boys like himself."
 
-  I have retrieved the top 10 files which are highly similar to the queries above with the cosine similarity values.
+  I have retrieved the top 10 files out of 249 files which are highly similar to the queries above with the cosine similarity values.
       
  
