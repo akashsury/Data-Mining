@@ -1,6 +1,6 @@
 # Data-Mining
 
-  I have used placed the documents in three folders - Text file set1, Text file set2 and Text file set3. Since, I am not able to place all the documents in the single folder(only 101 files are allowed in the folder). I mentioned this point just for the clarification because I retrieved the text files from the single folder while creating the code. The goal of this project is to find the similarities between the collection of documents. There are many applications which require to
+  I have placed the documents in three folders - Text file set1, Text file set2 and Text file set3. Since, I am not able to place all the documents in the single folder(only 101 files are allowed in single folder). I mentioned this point just for the clarification because I retrieved the text files from the single folder while creating the code. The goal of this project is to find the similarities between the collection of documents. There are many applications which require to
   arrange the similar set of documents together. In google search engine, the similar kinds of articles will be put together based on 
   relevance of the documents. Due to the collection of large set of data and documents, the documents can not be analyzed and arranged 
   manually. To tackle this, data mining can be used. In this project, we are having collection of 249 documents. I have created a python 
